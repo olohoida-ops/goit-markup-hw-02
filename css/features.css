@@ -1,0 +1,10 @@
+.features-list {
+  list-style: none;
+}
+
+.features-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #2e2f42;
+}
